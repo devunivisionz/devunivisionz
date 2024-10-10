@@ -1,4 +1,5 @@
-    <img src="https://github-stats-devunivisionz.vercel.app/api/top-langs/?username=devunivisionz&theme=tokyonight">
+![Top Languages](https://github-stats-devunivisionz.vercel.app/api/top-langs/?username=devunivisionz&theme=tokyonight)
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devunivisionz&show_icons=true&theme=radical)
 
 
