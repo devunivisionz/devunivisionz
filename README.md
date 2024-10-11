@@ -101,15 +101,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </tr>
 </table>
 
-## <img src="https://github.com/devunivisionz/devunivisionz/blob/main/assets/recent.gif" width="30" height="35" /> Recent Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devunivisionz&theme=synthwave-84&true&hide_border=true" />
-</div>
+
 
 <br>
-
-Recent Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devunivisionz&theme=synthwave-84&true&hide_border=true" />
