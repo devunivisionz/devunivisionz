@@ -75,36 +75,36 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!------------------------------------------------------------ GITHUB STATS ------------------------------------------------------------------------>
         
-## <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/stats.gif" width="30" height="30" /> Github Stats 
+## <img src="https://github.com/devunivisionz/devunivisionz/blob/main/assets/stats.gif" width="30" height="30" /> Github Stats 
 
 <table>    
 <tr>
   <td align="center">
-    <img width="500" src="https://streak-stats.demolab.com/?user=gurjeetsinghvirdee&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" />
+    <img width="500" src="https://streak-stats.demolab.com/?user=devunivisionz&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" />
   </td>
   <td align="center">
-    <img width="500" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&border_radius=5&include_all_commits=true&hide_border=true" />
+    <img width="500" src="https://github-readme-stats.vercel.app/api?username=devunivisionz&show_icons=true&border_radius=5&include_all_commits=true&hide_border=true" />
   </td>
 </tr>
 
 <tr>
   <td align="center">
    <a href="https://gitroll.io/profile/uHd7PWxfGZfhtTRRQgByd4RHQclu2">
-    <img width="500" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/languages.png" alt="lang-stack" />
+    <img width="500" src="https://github.com/devunivisionz/devunivisionz/blob/main/assets/languages.png" alt="lang-stack" />
    </a>
   </td>
   <td align="center">
    <a href="https://gitroll.io/profile/uHd7PWxfGZfhtTRRQgByd4RHQclu2">
-    <img width="500" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/tech.png" alt="tech-stack" />
+    <img width="500" src="https://github.com/devunivisionz/devunivisionz/blob/main/assets/tech.png" alt="tech-stack" />
    </a>
   </td>
 </tr>
 </table>
 
-## <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/recent.gif" width="30" height="35" /> Recent Activity
+## <img src="https://github.com/devunivisionz/devunivisionz/blob/main/assets/recent.gif" width="30" height="35" /> Recent Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gurjeetsinghvirdee&theme=synthwave-84&true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devunivisionz&theme=synthwave-84&true&hide_border=true" />
 </div>
 
 <br>
