@@ -76,16 +76,17 @@
 
 ## <img src="https://github.com/devunivisionz/devunivisionz/blob/main/assets/stats.gif" width="30" height="30" /> GitHub Stats 
 
-<table>    
-<tr>
-    <td  >
-        <img width="500" src="https://streak-stats.demolab.com/?user=devunivisionz&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" />
-    </td>
-    <td  >
-        <img width="500" src="https://github-readme-stats.vercel.app/api?username=devunivisionz&show_icons=true&border_radius=5&include_all_commits=true&hide_border=true" />
-    </td>
-</tr>
+<table style="background-color: black; border-radius: 5px;">
+    <tr>
+        <td>
+            <img width="500" src="https://streak-stats.demolab.com/?user=devunivisionz&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" style="background-color: black; border-radius: 5px;" />
+        </td>
+        <td>
+            <img width="500" src="https://github-readme-stats.vercel.app/api?username=devunivisionz&show_icons=true&border_radius=5&include_all_commits=true&hide_border=true" style="background-color: black; border-radius: 5px;" />
+        </td>
+    </tr>
 </table>
+
 
 <br>
 
