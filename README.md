@@ -2,7 +2,7 @@
     <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Full+Stack+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Code+For+Everyone'/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=devunivisionz&style=flat-square&color=blue" alt=""/>
 
 <div align="center" >
     <h1>
