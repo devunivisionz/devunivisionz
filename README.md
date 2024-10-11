@@ -13,7 +13,7 @@
 
 ---
 
-<div align="center" >
+<div  >
     <h3>👩‍💻 About Me:</h3>
     <p>👋 Hi, I’m RKVS Sharma</p>
     <p>💞️ I’m looking to collaborate on various projects.</p>
