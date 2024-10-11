@@ -36,10 +36,12 @@
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
     <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/tailwind%20css-%2338B2E1.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
     <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
     <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
     <img src="https://img.shields.io/badge/semantic%20UI%20-%234ABDB2.svg?&style=for-the-badge&logo=semantic-ui&logoColor=white" alt="Semantic UI"/>
 </div>
+
 
 
 ### Backend:
