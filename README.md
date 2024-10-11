@@ -1,4 +1,5 @@
-<div id="header" align="center">
+<div style="background-color : black; color: white;"> 
+<div id="header" align="center" >
     <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Full+Stack+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Code+For+Everyone'/>
 </div>
 <div align="center" >
@@ -87,7 +88,7 @@
 </div>
 
 
-
+</div>
 
 <br>
 
