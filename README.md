@@ -11,9 +11,7 @@
   <h1>
     Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-
-
+  </h1> 
 ---
 
 ### :woman_technologist: About Me :
@@ -25,7 +23,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
-
+---
+<img src="https://komarev.com/ghpvc/?username=devunivisionz&label=Profile%20views&color=0e75b6&style=flat" alt="ShOdHa" />
 
 ---
 
