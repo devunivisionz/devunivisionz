@@ -87,18 +87,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </td>
 </tr>
 
-<tr>
-  <td align="center">
-   <a href="https://gitroll.io/profile/uHd7PWxfGZfhtTRRQgByd4RHQclu2">
-    <img width="500" src="https://github.com/devunivisionz/devunivisionz/blob/main/assets/languages.png" alt="lang-stack" />
-   </a>
-  </td>
-  <td align="center">
-   <a href="https://gitroll.io/profile/uHd7PWxfGZfhtTRRQgByd4RHQclu2">
-    <img width="500" src="https://github.com/devunivisionz/devunivisionz/blob/main/assets/tech.png" alt="tech-stack" />
-   </a>
-  </td>
-</tr>
+
 </table>
 
 
