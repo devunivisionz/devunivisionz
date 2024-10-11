@@ -41,3 +41,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devunivisionz&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+---
+
+Recent Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devunivisionz&theme=synthwave-84&true&hide_border=true" />
+</div>
+
+<br>
